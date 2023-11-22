@@ -21,8 +21,8 @@
 
 ## 🔗 Links
 [![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hey007q)
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/aayushi-singh-69a0a7286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
 
 <details>
  <summary><h2>📈 Statistics</h2></summary>
